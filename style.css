@@ -1,0 +1,70 @@
+/* Mobile */
+@media only screen and (max-width: 600px){
+    body{
+        font-size: 16px;
+        align-content: center;
+        width: 100%;
+    }
+}
+
+
+
+
+body{
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     font-size: 18px;
+     padding: 60px;
+     margin: 60px auto;
+     max-width: 50%;
+}
+
+.location{
+    margin-top: -8vh;
+    font-size: 1.5em;
+    text-transform: uppercase; 
+}
+
+h3{
+    margin: 0;
+    padding-top: 25px;
+    color: #fff;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+
+.main{
+    background: #6f96c6;
+    height: 110px;
+}
+
+
+.box{
+    padding: 50px;
+    height: 250px;
+    background-color: beige;
+
+}
+
+.temperature {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+
+.temperature {
+    font-size: 1.8em;
+}
+
+
+.coded{
+    color:#fff;
+    float: left;
+    padding-top: 12vh;
+    text-align: left;
+    margin: 10px;
+    font-size: 0.6em;
+}
+
